@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,b as p}from"./app.853851d6.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/02-前端/vue/重学vue-09生命周期.md"}'),l={name:"articles/02-前端/vue/重学vue-09生命周期.md"},o=p("",7),e=[o];function t(c,r,F,y,D,i){return n(),a("div",null,e)}const _=s(l,[["render",t]]);export{C as __pageData,_ as default};

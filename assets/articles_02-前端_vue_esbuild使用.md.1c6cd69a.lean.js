@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,b as r}from"./app.853851d6.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/02-前端/vue/esbuild使用.md"}'),a={name:"articles/02-前端/vue/esbuild使用.md"},s=r("",4),c=[s];function i(l,p,_,d,n,u){return t(),o("div",null,c)}const f=e(a,[["render",i]]);export{h as __pageData,f as default};
