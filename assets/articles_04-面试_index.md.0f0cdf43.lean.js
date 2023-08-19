@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as s}from"./app.1b6c8785.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/04-面试/index.md"}'),n={name:"articles/04-面试/index.md"},o=s("p",null,"面试",-1),r=[o];function c(i,d,_,l,p,m){return t(),a("div",null,r)}const x=e(n,[["render",c]]);export{u as __pageData,x as default};
